@@ -1,6 +1,6 @@
 #                                     What is the View-UI?
 <div align="center">
-    <a herf="https://github.com/hpu-hyh/View-UI/stargazers"></a><img height="45px" width="130px" src="https://img.shields.io/github/stars/hpu-hyh/View-UI.svg?color=#42b983" /></a>
+    <a herf="https://github.com/hpu-hyh/View-UI/stargazers"><img height="45px" width="130px" src="https://img.shields.io/github/stars/hpu-hyh/View-UI.svg?color=#42b983" /></a>
 	<a herf="(https://github.com/hpu-hyh/View-UI/network/members)"><img height="45px" width="130px" src="https://img.shields.io/github/forks/hpu-hyh/View-UI.svg" /></a>
 </div>
 
