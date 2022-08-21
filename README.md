@@ -1,6 +1,6 @@
 #                                     What is the View-UI?
 <div align="center">
-    <img height="45px" width="130px" src="https://img.shields.io/github/stars/hpu-hyh/View-UI.svg?color=#42b983" />
+    <img height="45px" width="130px" src="https://img.shields.io/github/stars/hpu-hyh/View-UI.svg" />
 	  <img height="45px" width="130px" src="https://img.shields.io/github/forks/hpu-hyh/View-UI.svg" />
 </div>
 
